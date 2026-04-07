@@ -11,7 +11,7 @@ This repository is built to:
 * Help beginners understand **networking from scratch**
 * Provide **structured weekly learning**
 * Combine **videos + notes + labs + quizzes**
-* Prepare students for the **CCNA 200-301 certification**
+
 
 ---
 
