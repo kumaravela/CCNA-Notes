@@ -1,0 +1,148 @@
+# 🌐 CCNA 200-301 Learning Hub (Jeremy IT Lab Based)
+
+Welcome to the **CCNA 200-301 Learning Hub** – a structured repository designed to help students learn networking fundamentals using **Jeremy IT Lab’s CCNA course**, hands-on labs, and simplified notes.
+
+---
+
+## 🎯 Objective
+
+This repository is built to:
+
+* Help beginners understand **networking from scratch**
+* Provide **structured weekly learning**
+* Combine **videos + notes + labs + quizzes**
+* Prepare students for the **CCNA 200-301 certification**
+
+---
+
+## 📘 Study Notes
+
+👉 **Download Full CCNA Notes (Jeremy IT Lab Based)**
+Replace with your link:
+`https://your-google-drive-link`
+
+> These notes cover all major CCNA topics and are great for revision.
+
+---
+
+## 📚 Course Structure (Jeremy IT Lab)
+
+| Week    | Topics                                 |
+| ------- | -------------------------------------- |
+| Week 1  | Networking Basics, Devices, Interfaces |
+| Week 2  | OSI Model, TCP/IP, CLI                 |
+| Week 3  | IPv4 Addressing                        |
+| Week 4  | Subnetting + VLSM                      |
+| Week 5  | VLANs                                  |
+| Week 6  | STP + RSTP                             |
+| Week 7  | EtherChannel                           |
+| Week 8  | Routing Fundamentals                   |
+| Week 9  | OSPF                                   |
+| Week 10 | NAT, DHCP, DNS                         |
+| Week 11 | Security (ACL, Port Security)          |
+| Week 12 | Wireless + Automation                  |
+
+---
+
+## 🛠️ Hands-On Labs
+
+Practice is key to mastering networking.
+
+Labs included:
+
+* 🔹 IP Addressing Labs
+* 🔹 Subnetting Practice
+* 🔹 VLAN Configuration
+* 🔹 STP Troubleshooting
+* 🔹 Routing & OSPF Labs
+
+📌 Tools:
+
+* Cisco Packet Tracer
+* CLI Practice
+
+---
+
+## 🧪 Quizzes & Practice
+
+* Weekly quizzes based on topics
+* Scenario-based troubleshooting questions
+* CCNA-style exam questions
+
+---
+
+## 🧠 Key Topics Covered
+
+* Networking Fundamentals
+* OSI Model & TCP/IP
+* IPv4 Addressing & Subnetting
+* VLANs, STP, EtherChannel
+* Routing (Static, OSPF)
+* NAT, DHCP, DNS
+* Security Fundamentals
+* Wireless & Automation
+
+---
+
+## 🚀 How to Use This Repo
+
+1. Follow topics **week by week**
+2. Watch Jeremy IT Lab videos
+3. Read notes after each topic
+4. Complete labs
+5. Attempt quizzes
+
+---
+
+## 📦 Repository Structure
+
+```
+ccna-learning/
+│
+├── notes/
+├── labs/
+├── quizzes/
+├── weekly-plan/
+└── README.md
+```
+
+---
+
+## 👨‍🏫 For Students
+
+* Stay consistent – practice daily
+* Focus on **understanding, not memorizing**
+* Labs are more important than theory
+* Ask questions when stuck
+
+---
+
+## 🔗 Resources
+
+* Jeremy IT Lab (YouTube)
+* Cisco Packet Tracer
+* Official CCNA 200-301 Guide (Wendell Odom)
+
+---
+
+## ⭐ Contribute / Feedback
+
+If you find this helpful:
+
+* ⭐ Star this repo
+* Share with others
+* Suggest improvements
+
+---
+
+## 📌 Disclaimer
+
+This repository is for **educational purposes only** and follows publicly available learning resources.
+
+---
+
+## 🙌 Final Note
+
+> "The more you practice, the easier networking becomes."
+
+Happy Learning! 🚀
