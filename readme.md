@@ -108,14 +108,6 @@ ccna-learning/
 
 ---
 
-## 👨‍🏫 For Students
-
-* Stay consistent – practice daily
-* Focus on **understanding, not memorizing**
-* Labs are more important than theory
-* Ask questions when stuck
-
----
 
 ## 🔗 Resources
 
