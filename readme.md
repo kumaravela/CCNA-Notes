@@ -19,7 +19,7 @@ This repository is built to:
 
 👉 **Download Full CCNA Notes (Jeremy IT Lab Based)**
 Replace with your link:
-`https://your-google-drive-link`
+https://drive.google.com/file/d/1bFV_hh2E4rrhtoPNyOn5wzHcdlU1fySo/view?usp=sharing
 
 > These notes cover all major CCNA topics and are great for revision.
 
