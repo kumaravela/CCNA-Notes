@@ -15,6 +15,19 @@ This repository is built to:
 
 ---
 
+## Introduction Videos
+
+<a href="https://www.youtube.com/watch?v=Sfzo4xm5eX8&t=1s" target="_blank">How the Internet Works in 4 Minutes | Animation Video</a>
+
+
+<a href="https://www.youtube.com/watch?v=s27NzeMNHmk&t=42s" target="_blank">Network Engineer: Day In The Life
+
+<a href="https://www.youtube.com/watch?v=0akMyLijNVg" target="_blank">How to Become a Network Engineer in 2026!
+
+<a href="https://www.youtube.com/watch?v=jW5GhNhBReA&t=3s" target="_blank">Build a network with me for free using Cisco Packet Tracer (FREE CCNA 200-301 Course 2025)
+
+<a href="https://www.youtube.com/watch?v=DfWQAxlurwk" target="_blank">A Glimpse at Your Future with the CCNA | Presented by Cisco
+
 ## 📘 Study Notes
 
 👉 **Download Full CCNA Notes (Jeremy IT Lab Based)**
