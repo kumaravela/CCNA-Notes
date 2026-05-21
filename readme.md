@@ -34,6 +34,10 @@ This repository is built to:
 Replace with your link:
 https://drive.google.com/file/d/1bFV_hh2E4rrhtoPNyOn5wzHcdlU1fySo/view?usp=sharing
 
+👉 ****Here is the link to all packet tracer labs from Jeremy’s CCNA course** **
+
+[CCNA 200-301 Course Files - Google Drive](https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi)
+
 > These notes cover all major CCNA topics and are great for revision.
 
 ---
